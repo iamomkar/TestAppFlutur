@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test App Flutur</string>
+    <string name="sample1">1. Single activity: Have an ImageView which the user can drag around the screen. The updated positions of the imageView should be constantly logged to the console using Log.d() as the user moves it around.</string>
+    <string name="sample2">3. Single activity: Have a bunch of views (random text, images etc. - anything you want) and a button. If user clicks the button, the screen should be covered with a transparent textview saying "Hello world" and all the underlying elements should be blurry. You can use - https://github.com/wasabeef/Blurry this library.</string>
+    <string name="sample3">Single activity: Have an ImageView. The user can long press on this image view. For as long as the user is pressing it, it should expand in size slowly. As soon as the user lets go, the ImageView should shrink back in size slowly. The updated size of the ImageView should be constantly logged to the console using Log.d() as the user presses / releases the image.</string>
+    <string name="t1">Study nature, love nature, stay close to nature. It will never fail you.</string>
+</resources>
